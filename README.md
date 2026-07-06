@@ -63,3 +63,58 @@
 
 </body>
 </html>
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f4f6f9;
+  color: #333;
+}
+
+header {
+  background: #1e3a8a;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+.hero {
+  text-align: center;
+  padding: 40px;
+  background: #e0f2fe;
+}
+
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background: #16a34a;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+section {
+  padding: 20px;
+  text-align: center;
+}
+
+.about, .mission, .donate, .contact {
+  background: white;
+  margin: 10px;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.box {
+  background: #fef3c7;
+  padding: 10px;
+  border-radius: 8px;
+  display: inline-block;
+}
+
+footer {
+  text-align: center;
+  padding: 10px;
+  background: #111827;
+  color: white;
+}
